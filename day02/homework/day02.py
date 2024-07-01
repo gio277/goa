@@ -1,0 +1,5 @@
+print("xvicha")
+print("nino")
+print("sandro")
+print("nika")
+print("diana")

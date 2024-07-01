@@ -1,0 +1,1 @@
+print("Aleko tirkia,davit grdelishvili,merab cicxvia,")
